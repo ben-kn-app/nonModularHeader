@@ -1,0 +1,27 @@
+{
+  "name": "capacitor-app",
+  "version": "1.0.0",
+  "description": "An Amazing Capacitor App",
+  "main": "index.js",
+  "keywords": [
+    "capacitor",
+    "mobile"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@admob-plus/capacitor": "^1.23.0",
+    "@capacitor/camera": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/ios": "^3.4.3",
+    "@capacitor/splash-screen": "latest",
+    "cordova-plugin-firebasex": "^14.0.0",
+    "firebase": "^9.6.8"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
