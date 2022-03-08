@@ -1,3 +1,5 @@
+# Minimal reproducable code for issue on https://github.com/admob-plus/admob-plus/issues/502
+
 ## Created with Capacitor Create App
 
 This app was created using [`@capacitor/create-app`](https://github.com/ionic-team/create-capacitor-app),
